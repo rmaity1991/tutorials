@@ -1,0 +1,7 @@
+00:58:28 **** Incremental Build of configuration Debug for project using_scanf ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o using_scanf.exe main.o 
+Info: Nothing to build for using_scanf
+Info: Nothing to build for using_scanf
+Info: Nothing to build for using_scanf

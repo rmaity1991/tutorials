@@ -1,0 +1,52 @@
+!SESSION 2022-10-17 21:23:41.329 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Tutorials\embedded\udemy\embedded C\workspace\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-10-17 21:23:54.059
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-10-17 21:23:54.175
+!MESSAGE Log4j initialized with config file D:\Tutorials\embedded\udemy\embedded C\workspace\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-10-17 21:24:00.704
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.net 4 0 2022-10-17 21:24:22.661
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'The handle is invalid.
+' #6.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:16.662
+!MESSAGE Indexed '001HelloWorld' (3 sources, 52 headers) in 1.22 sec: 2,069 declarations; 2,752 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:17.412
+!MESSAGE Indexed '010led_toggle_bitfields' (3 sources, 54 headers) in 0.744 sec: 2,018 declarations; 2,879 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:17.860
+!MESSAGE Indexed '005led_toggle' (3 sources, 53 headers) in 0.442 sec: 1,954 declarations; 2,817 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:18.340
+!MESSAGE Indexed '003Add' (3 sources, 51 headers) in 0.478 sec: 2,048 declarations; 2,738 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:18.735
+!MESSAGE Indexed '006pin_read' (3 sources, 53 headers) in 0.39 sec: 1,955 declarations; 2,820 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:19.042
+!MESSAGE Indexed '011keypad' (3 sources, 55 headers) in 0.304 sec: 2,107 declarations; 3,020 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:19.354
+!MESSAGE Indexed '009packed_Vsnonpacked' (3 sources, 52 headers) in 0.308 sec: 2,075 declarations; 2,772 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:19.670
+!MESSAGE Indexed '007volatile' (3 sources, 53 headers) in 0.313 sec: 1,951 declarations; 2,806 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:19.972
+!MESSAGE Indexed '002Sizeof' (3 sources, 52 headers) in 0.299 sec: 2,069 declarations; 2,756 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:20.234
+!MESSAGE Indexed '004led_on' (3 sources, 53 headers) in 0.259 sec: 1,952 declarations; 2,810 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-17 21:25:20.522
+!MESSAGE Indexed '008button_ISR' (3 sources, 55 headers) in 0.286 sec: 2,115 declarations; 2,978 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)

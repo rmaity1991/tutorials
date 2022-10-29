@@ -1,0 +1,650 @@
+2022-10-21 23:39:32,478 [INFO] Activator:177 - 
+
+
+2022-10-21 23:39:32,480 [INFO] Activator:178 - !SESSION log4j initialized
+2022-10-21 23:40:06,071 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-10-21 23:40:06,072 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-10-21 23:40:06,074 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-10-21 23:40:06,493 [INFO] McuFinderGlobals:44 - Set McuFinder mode to 2 (CubeIDE integrated)
+2022-10-21 23:40:07,553 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420
+2022-10-21 23:40:07,695 [INFO] DbMcusXml:77 - Set database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/mcu/
+2022-10-21 23:40:07,696 [INFO] ApiDb:269 - Set plugin database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/boardmanager/
+2022-10-21 23:40:07,699 [WARN] ApiDb:254 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/mcufinder/images/
+2022-10-21 23:40:07,807 [INFO] ApiDb:249 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/
+2022-10-21 23:40:07,810 [INFO] DbMcusAds:124 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/
+2022-10-21 23:40:07,825 [INFO] CrossReferenceDbSqlite:201 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-10-21 23:40:08,233 [INFO] RulesReader:61 - Compatibility file has been processed (282 Rules)
+2022-10-21 23:40:08,722 [INFO] DbMcusXml:77 - Set database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/mcu/
+2022-10-21 23:40:08,723 [INFO] ApiDb:269 - Set plugin database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/boardmanager/
+2022-10-21 23:40:08,723 [INFO] ApiDb:256 - Set plugin images path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/mcufinder/images/
+2022-10-21 23:40:08,723 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:08,723 [INFO] ApiDb:249 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/
+2022-10-21 23:40:08,724 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:08,724 [INFO] DbMcusAds:124 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/
+2022-10-21 23:40:08,725 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:08,725 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:08,725 [INFO] CrossReferenceDbSqlite:201 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-10-21 23:40:09,246 [INFO] MainPanel:242 - HeapMemory: 268435456
+2022-10-21 23:40:09,730 [INFO] DbMcusXml:77 - Set database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/mcu/
+2022-10-21 23:40:09,730 [INFO] ApiDb:269 - Set plugin database path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/boardmanager/
+2022-10-21 23:40:09,730 [INFO] ApiDb:256 - Set plugin images path to: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420\\db\/plugins/mcufinder/images/
+2022-10-21 23:40:09,731 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:09,731 [INFO] ApiDb:249 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/
+2022-10-21 23:40:09,731 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:09,732 [INFO] DbMcusAds:124 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/
+2022-10-21 23:40:09,732 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:09,732 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:40:09,733 [INFO] CrossReferenceDbSqlite:201 - Set database path to: C:\Users\11037833\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-10-21 23:40:09,900 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420
+2022-10-21 23:40:09,903 [INFO] PluginManage:193 - Search for loadable plugins [exclusion list=, ]
+2022-10-21 23:40:09,921 [INFO] PluginManage:307 - Check plugin analytics
+2022-10-21 23:40:10,248 [INFO] AnalyticsPlugin:262 - Accepted Software Licenses: 
+2022-10-21 23:40:10,250 [INFO] AnalyticsPlugin:264 - Accepted CMSIS Pack Licenses: 
+2022-10-21 23:40:10,253 [INFO] AnalyticsPlugin:266 - Accepted Firmware Licenses: 
+2022-10-21 23:40:10,269 [INFO] PluginManage:356 - Loaded plugin analytics (category:tool,tabindex:-1)
+2022-10-21 23:40:10,270 [INFO] PluginManage:307 - Check plugin cadmodel
+2022-10-21 23:40:10,358 [INFO] CADModel:65 - Init CAD model plugin
+2022-10-21 23:40:10,358 [INFO] PluginManage:356 - Loaded plugin cadmodel (category:power,tabindex:5)
+2022-10-21 23:40:10,359 [INFO] PluginManage:307 - Check plugin clock
+2022-10-21 23:40:10,426 [INFO] PluginManage:356 - Loaded plugin clock (category:base,tabindex:2)
+2022-10-21 23:40:10,426 [INFO] PluginManage:307 - Check plugin ddr
+2022-10-21 23:40:10,454 [INFO] PluginManage:356 - Loaded plugin ddr (category:tool,tabindex:6)
+2022-10-21 23:40:10,455 [INFO] PluginManage:307 - Check plugin filemanager
+2022-10-21 23:40:11,005 [INFO] PluginManage:356 - Loaded plugin filemanager (category:base,tabindex:10)
+2022-10-21 23:40:11,005 [INFO] PluginManage:307 - Check plugin ipmanager
+2022-10-21 23:40:11,051 [INFO] PluginManage:356 - Loaded plugin ipmanager (category:base,tabindex:5)
+2022-10-21 23:40:11,052 [INFO] PluginManage:307 - Check plugin lpbam
+2022-10-21 23:40:11,102 [INFO] PluginManage:356 - Loaded plugin lpbam (category:base,tabindex:0)
+2022-10-21 23:40:11,103 [INFO] PluginManage:307 - Check plugin pinoutandconfiguration
+2022-10-21 23:40:11,143 [INFO] PluginManage:356 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2022-10-21 23:40:11,143 [INFO] PluginManage:307 - Check plugin pinoutconfig
+2022-10-21 23:40:11,239 [INFO] PluginManage:356 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2022-10-21 23:40:11,240 [INFO] PluginManage:307 - Check plugin power
+2022-10-21 23:40:11,300 [INFO] PluginManage:356 - Loaded plugin power (category:power,tabindex:4)
+2022-10-21 23:40:11,300 [INFO] PluginManage:307 - Check plugin projectmanager
+2022-10-21 23:40:11,348 [INFO] PluginManage:356 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2022-10-21 23:40:11,348 [INFO] PluginManage:307 - Check plugin thirdparty
+2022-10-21 23:40:11,973 [INFO] PluginManage:356 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2022-10-21 23:40:11,974 [WARN] IntegrityCheckThread:82 - waiting for thirdparty lock release [integrity check]
+2022-10-21 23:40:11,974 [INFO] PluginManage:307 - Check plugin tools
+2022-10-21 23:40:11,976 [INFO] IntegrityCheckThread:84 - entering critical section [integrity check]
+2022-10-21 23:40:11,978 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2022-10-21 23:40:11,996 [INFO] PluginManage:356 - Loaded plugin tools (category:base,tabindex:7)
+2022-10-21 23:40:11,997 [INFO] PluginManage:307 - Check plugin tutovideos
+2022-10-21 23:40:12,474 [INFO] PluginManage:356 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2022-10-21 23:40:12,475 [INFO] PluginManage:307 - Check plugin updater
+2022-10-21 23:40:12,525 [INFO] PluginManage:356 - Loaded plugin updater (category:base,tabindex:12)
+2022-10-21 23:40:12,526 [INFO] PluginManage:280 - PluginManage : Loaded plugins [15]
+2022-10-21 23:40:13,666 [INFO] PinOutPanel:1468 - setPackage(No Configuration,No Configuration)
+2022-10-21 23:40:13,921 [INFO] CADModel:98 - CPN selected for project level
+2022-10-21 23:40:14,012 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,013 [INFO] PluginManager:217 - loadIPPluginJar : add adc
+2022-10-21 23:40:14,025 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,026 [INFO] PluginManager:217 - loadIPPluginJar : add aes
+2022-10-21 23:40:14,045 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,045 [INFO] PluginManager:217 - loadIPPluginJar : add can
+2022-10-21 23:40:14,058 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,058 [INFO] PluginManager:217 - loadIPPluginJar : add comp
+2022-10-21 23:40:14,064 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,065 [INFO] PluginManager:217 - loadIPPluginJar : add cryp
+2022-10-21 23:40:14,081 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,082 [INFO] PluginManager:217 - loadIPPluginJar : add dfsdm
+2022-10-21 23:40:14,107 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,108 [INFO] PluginManager:217 - loadIPPluginJar : add dma
+2022-10-21 23:40:14,121 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,121 [INFO] PluginManager:217 - loadIPPluginJar : add dma3
+2022-10-21 23:40:14,125 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,126 [INFO] PluginManager:217 - loadIPPluginJar : add fatfs
+2022-10-21 23:40:14,149 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,150 [INFO] PluginManager:217 - loadIPPluginJar : add fmc
+2022-10-21 23:40:14,175 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,176 [INFO] PluginManager:217 - loadIPPluginJar : add freertos
+2022-10-21 23:40:14,190 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,191 [INFO] PluginManager:217 - loadIPPluginJar : add genericplugin
+2022-10-21 23:40:14,214 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,214 [INFO] PluginManager:217 - loadIPPluginJar : add gfxmmu
+2022-10-21 23:40:14,236 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,237 [INFO] PluginManager:217 - loadIPPluginJar : add gic
+2022-10-21 23:40:14,263 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,263 [INFO] PluginManager:217 - loadIPPluginJar : add gpio
+2022-10-21 23:40:14,282 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,283 [INFO] PluginManager:217 - loadIPPluginJar : add gtzc
+2022-10-21 23:40:14,300 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,301 [INFO] PluginManager:217 - loadIPPluginJar : add hash
+2022-10-21 23:40:14,318 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,318 [INFO] PluginManager:217 - loadIPPluginJar : add i2c
+2022-10-21 23:40:14,332 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,333 [INFO] PluginManager:217 - loadIPPluginJar : add i2s
+2022-10-21 23:40:14,357 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,358 [INFO] PluginManager:217 - loadIPPluginJar : add ipddr
+2022-10-21 23:40:14,412 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,413 [INFO] PluginManager:217 - loadIPPluginJar : add linkedlist
+2022-10-21 23:40:14,433 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,433 [INFO] PluginManager:217 - loadIPPluginJar : add lorawan
+2022-10-21 23:40:14,453 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,453 [INFO] PluginManager:217 - loadIPPluginJar : add ltdc
+2022-10-21 23:40:14,479 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,479 [INFO] PluginManager:217 - loadIPPluginJar : add mdma
+2022-10-21 23:40:14,494 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,495 [INFO] PluginManager:217 - loadIPPluginJar : add nvic
+2022-10-21 23:40:14,504 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,505 [INFO] PluginManager:217 - loadIPPluginJar : add opamp
+2022-10-21 23:40:14,541 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,542 [INFO] PluginManager:217 - loadIPPluginJar : add openamp
+2022-10-21 23:40:14,557 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,558 [INFO] PluginManager:217 - loadIPPluginJar : add pdm2pcm
+2022-10-21 23:40:14,579 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,584 [INFO] PluginManager:217 - loadIPPluginJar : add plateformsettings
+2022-10-21 23:40:14,602 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,603 [INFO] PluginManager:217 - loadIPPluginJar : add quadspi
+2022-10-21 23:40:14,629 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,630 [INFO] PluginManager:217 - loadIPPluginJar : add resmgrutility
+2022-10-21 23:40:14,648 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,648 [INFO] PluginManager:217 - loadIPPluginJar : add sai
+2022-10-21 23:40:14,655 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,655 [INFO] PluginManager:217 - loadIPPluginJar : add spi
+2022-10-21 23:40:14,682 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,683 [INFO] PluginManager:217 - loadIPPluginJar : add stm32_wpan
+2022-10-21 23:40:14,703 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,703 [INFO] PluginManager:217 - loadIPPluginJar : add tim
+2022-10-21 23:40:14,724 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,725 [INFO] PluginManager:217 - loadIPPluginJar : add touchsensing
+2022-10-21 23:40:14,747 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,748 [INFO] PluginManager:217 - loadIPPluginJar : add tracer_emb
+2022-10-21 23:40:14,760 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,761 [INFO] PluginManager:217 - loadIPPluginJar : add ts
+2022-10-21 23:40:14,772 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,773 [INFO] PluginManager:217 - loadIPPluginJar : add tsc
+2022-10-21 23:40:14,778 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,778 [INFO] PluginManager:217 - loadIPPluginJar : add ucpd
+2022-10-21 23:40:14,817 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,817 [INFO] PluginManager:217 - loadIPPluginJar : add usart
+2022-10-21 23:40:14,834 [INFO] IPUIPlugin:79 - create IPUIPlugin
+2022-10-21 23:40:14,834 [INFO] PluginManager:217 - loadIPPluginJar : add usbx
+2022-10-21 23:40:14,982 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [2/15]
+2022-10-21 23:40:15,664 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:15,929 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:15,966 [INFO] DbMcusAds:52 - JSON generation date=Thu Sep 30 12:25:09 IST 2021 (1632984909247)
+2022-10-21 23:40:15,966 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:16,195 [WARN] DetailPanel:344 - Failed to get advertising image, set to default
+2022-10-21 23:40:16,544 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:16,570 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:16,570 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:16,571 [WARN] DetailPanel:344 - Failed to get advertising image, set to default
+2022-10-21 23:40:16,575 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:16,754 [ERROR] Updater:1105 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2022-10-21 23:40:16,765 [INFO] Updater:1041 - Updater Version found : 6.6.1
+2022-10-21 23:40:16,821 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.6.1.202207061420
+2022-10-21 23:40:17,995 [FATAL] Updater:301 - Updater called before beeing initialized
+2022-10-21 23:40:17,996 [ERROR] IntegrityCheckThread:128 - Cannot retrieve database content from updater: error 21
+2022-10-21 23:40:17,997 [INFO] ThirdParty:929 - Integrity check success = false
+2022-10-21 23:40:17,997 [INFO] IntegrityCheckThread:98 - exiting critical section [integrity check]
+2022-10-21 23:40:17,997 [INFO] IntegrityCheckThread:101 - End integrity checks thread
+2022-10-21 23:40:18,126 [INFO] MainUpdater:2768 - connection check result : 10
+2022-10-21 23:40:18,127 [INFO] MainUpdater:3453 - Updater definition file requires update
+2022-10-21 23:40:18,130 [INFO] MainUpdater:280 - Updater Check For Update Now.
+2022-10-21 23:40:18,133 [INFO] MicroXplorer:481 - Change Database Version : DB.6.0.60
+2022-10-21 23:40:20,518 [INFO] ServerAccessManage:474 - Download File updaters.zip
+2022-10-21 23:40:20,991 [INFO] FileExtend:239 - Unzip File : updaters.zip
+2022-10-21 23:40:20,991 [INFO] FileExtend:254 - Standard Zip Deflate
+2022-10-21 23:40:22,109 [INFO] ServerAccessManage:474 - Download File PacksControlFlags.xml
+2022-10-21 23:40:22,513 [INFO] ServerAccessManage:474 - Download File cubemx.pidx
+2022-10-21 23:40:24,095 [INFO] ServerAccessManage:474 - Download File STMicroelectronics.FP-ATR-SIGFOX1.pdsc
+2022-10-21 23:40:26,205 [INFO] ServerAccessManage:474 - Download File STMicroelectronics.X-CUBE-BLEMGR.pdsc
+2022-10-21 23:40:28,860 [INFO] ServerAccessManage:474 - Download File STMicroelectronics.X-CUBE-TOF1.pdsc
+2022-10-21 23:40:31,695 [ERROR] ServerAccessManage:1090 - Problem, file not found on Server
+2022-10-21 23:40:32,855 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2022-10-21 23:40:32,877 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.1.2.0
+2022-10-21 23:40:32,910 [WARN] PackLoader:242 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.2.0
+2022-10-21 23:40:32,927 [INFO] PopulateThirdPartyThread:64 - Ending populate Thread
+2022-10-21 23:40:32,929 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2022-10-21 23:40:32,930 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.2.0
+2022-10-21 23:40:32,930 [INFO] ThirdParty:981 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2022-10-21 23:40:32,931 [INFO] LoadServerUpdatesThread:367 - End of LoadServerUpdate Thread
+2022-10-21 23:40:32,942 [INFO] CheckServerUpdateThread:119 - End of CheckServer Thread
+2022-10-21 23:40:32,964 [INFO] MainUpdater:2768 - connection check result : 10
+2022-10-21 23:40:32,997 [INFO] McuFinderGlobals:57 - Set McuFinderConnectedMode to true
+2022-10-21 23:40:34,410 [INFO] ServerAccessManage:474 - Download File mcusAds.json._tmp_
+2022-10-21 23:40:34,548 [INFO] LoadUrlFilesThread:150 - End of LoadUrlFiles Thread
+2022-10-21 23:40:38,654 [INFO] ServerAccessManage:474 - Download File cube-finder-db.zip
+2022-10-21 23:41:13,098 [INFO] FileExtend:239 - Unzip File : cube-finder-db.zip
+2022-10-21 23:41:13,098 [INFO] FileExtend:254 - Standard Zip Deflate
+2022-10-21 23:41:13,964 [INFO] LoadUrlFilesThread:150 - End of LoadUrlFiles Thread
+2022-10-21 23:41:17,192 [INFO] ServerAccessManage:474 - Download File crdb.zip
+2022-10-21 23:41:20,100 [INFO] FileExtend:239 - Unzip File : crdb.zip
+2022-10-21 23:41:20,102 [INFO] FileExtend:254 - Standard Zip Deflate
+2022-10-21 23:41:20,271 [INFO] LoadUrlFilesThread:150 - End of LoadUrlFiles Thread
+2022-10-21 23:41:21,640 [INFO] ServerAccessManage:474 - Download File tutoVideoDB.zip
+2022-10-21 23:41:22,182 [INFO] FileExtend:239 - Unzip File : tutoVideoDB.zip
+2022-10-21 23:41:22,183 [INFO] FileExtend:254 - Standard Zip Deflate
+2022-10-21 23:41:22,319 [INFO] LoadUrlFilesThread:150 - End of LoadUrlFiles Thread
+2022-10-21 23:41:22,364 [INFO] JxBrowserEngine:106 - Initiate JxBrowser Engine with user profile folder
+2022-10-21 23:41:22,832 [ERROR] JxBrowserEngine:59 - Can't initiate JxBrowser engine com.teamdev.jxbrowser.engine.ChromiumBinariesExtractionException: Failed to extract Chromium binaries into C:\Users\11037833\.stm32cubemx\.jxbrowser\Chromium
+2022-10-21 23:41:22,833 [WARN] DbFile:40 - Overriding database path with different value: C:\Users\11037833\.stmcufinder\plugins\mcufinder/ => C:\Users\11037833\.stmcufinder\plugins\mcufinder
+2022-10-21 23:41:23,561 [INFO] ServerAccessManage:474 - Download File api_config.json
+2022-10-21 23:41:23,699 [INFO] LoadUrlFilesThread:150 - End of LoadUrlFiles Thread
+2022-10-21 23:41:23,702 [INFO] DbMcusAds:52 - JSON generation date=Thu Sep 30 12:26:37 IST 2021 (1632984997303)
+2022-10-21 23:41:23,797 [INFO] LoadUrlFilesThread:177 - End of LoadServerUrlFiles without Thread
+2022-10-21 23:41:23,798 [INFO] TargetSelectorAdapter:228 - Refresh data is successful
+2022-10-21 23:41:24,153 [INFO] ApiDb:576 - Connected to CubeFinder SQLite database (C:\Users\11037833\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2022-10-21 23:41:24,210 [INFO] ApiDb:663 - CubeFinder database Data Model version=2.1
+2022-10-21 23:41:24,210 [INFO] ApiDb:664 - CubeFinder database Configuration version=3.0.32
+2022-10-21 23:41:24,211 [INFO] ApiDb:665 - CubeFinder database generation date=2022-08-05 (1659688109)
+2022-10-21 23:41:24,211 [INFO] ApiDb:666 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.1, STM32Cube_FW_F7_V1.17.0, STM32Cube_FW_G0_V1.6.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.1, STM32Cube_FW_WB_V1.14.1, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.1.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.3.0, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-MEMS1_V9.3.0, X-CUBE-NFC4_V2.0.4, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0]
+2022-10-21 23:41:27,189 [INFO] ApiDb:239 - Found 138 in-development CPN: [B-WB1M-WPAN1, NUCLEO-C031C6, STEVAL-STWINBX1, STM320518-EVAL, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L476VGY6PTR, STM32L4R5QGI6STR, STM32MP131AAE3, STM32MP131AAF3, STM32MP131AAG3, STM32MP131CAE3, STM32MP131CAF3, STM32MP131CAG3, STM32MP131DAE7, STM32MP131DAF7, STM32MP131DAG7, STM32MP131FAE7, STM32MP131FAF7, STM32MP131FAG7, STM32MP133AAE3, STM32MP133AAF3, STM32MP133AAG3, STM32MP133CAE3, STM32MP133CAF3, STM32MP133CAG3, STM32MP133DAE7, STM32MP133DAF7, STM32MP133DAG7, STM32MP133FAE7, STM32MP133FAF7, STM32MP133FAG7, STM32MP135AAE3, STM32MP135AAF3, STM32MP135AAG3, STM32MP135CAE3, STM32MP135CAF3, STM32MP135CAG3, STM32MP135DAE7, STM32MP135DAF7, STM32MP135DAG7, STM32MP135F-DK, STM32MP135FAE7, STM32MP135FAF7, STM32MP135FAG7, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q, STM32WB1MMCH6]
+2022-10-21 23:41:27,229 [INFO] DbMcus:215 - Found 3542 MCUs, 3542 are supported
+2022-10-21 23:41:27,270 [INFO] ApiDb:418 - Load user favorites file C:\Users\11037833/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-10-21 23:41:27,271 [INFO] ApiDb:422 - User favorites MCUs=[]
+2022-10-21 23:41:27,271 [INFO] DbMcus:221 - Set 0 / 0 favorites MCUs
+2022-10-21 23:41:27,281 [INFO] ApiDb:663 - CubeFinder database Data Model version=2.1
+2022-10-21 23:41:27,283 [INFO] ApiDb:664 - CubeFinder database Configuration version=3.0.32
+2022-10-21 23:41:27,284 [INFO] ApiDb:665 - CubeFinder database generation date=2022-08-05 (1659688109)
+2022-10-21 23:41:27,284 [INFO] ApiDb:666 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.1, STM32Cube_FW_F7_V1.17.0, STM32Cube_FW_G0_V1.6.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.1, STM32Cube_FW_WB_V1.14.1, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.1.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.3.0, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-MEMS1_V9.3.0, X-CUBE-NFC4_V2.0.4, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0]
+2022-10-21 23:41:27,431 [INFO] DbBoardsSqlite:227 - include board P-NUCLEO-WB55-NUCLEO as a kit item of type 'Nucleo-64'
+2022-10-21 23:41:27,432 [INFO] DbBoardsSqlite:227 - include board P-NUCLEO-WB55-USBDONGLE as a kit item of type 'Nucleo USB Dongle'
+2022-10-21 23:41:27,432 [INFO] DbBoardsSqlite:227 - include board STEVAL-IDP005V1 as a kit item of type 'Evaluation Board'
+2022-10-21 23:41:27,433 [INFO] DbBoardsSqlite:227 - include board STEVAL-IDP005V2 as a kit item of type 'Evaluation Board'
+2022-10-21 23:41:27,478 [INFO] ApiDb:239 - Found 138 in-development CPN: [B-WB1M-WPAN1, NUCLEO-C031C6, STEVAL-STWINBX1, STM320518-EVAL, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L476VGY6PTR, STM32L4R5QGI6STR, STM32MP131AAE3, STM32MP131AAF3, STM32MP131AAG3, STM32MP131CAE3, STM32MP131CAF3, STM32MP131CAG3, STM32MP131DAE7, STM32MP131DAF7, STM32MP131DAG7, STM32MP131FAE7, STM32MP131FAF7, STM32MP131FAG7, STM32MP133AAE3, STM32MP133AAF3, STM32MP133AAG3, STM32MP133CAE3, STM32MP133CAF3, STM32MP133CAG3, STM32MP133DAE7, STM32MP133DAF7, STM32MP133DAG7, STM32MP133FAE7, STM32MP133FAF7, STM32MP133FAG7, STM32MP135AAE3, STM32MP135AAF3, STM32MP135AAG3, STM32MP135CAE3, STM32MP135CAF3, STM32MP135CAG3, STM32MP135DAE7, STM32MP135DAF7, STM32MP135DAG7, STM32MP135F-DK, STM32MP135FAE7, STM32MP135FAF7, STM32MP135FAG7, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q, STM32WB1MMCH6]
+2022-10-21 23:41:27,769 [INFO] BoardInfo:879 - No configuration file found for board P-NUCLEO-WB55
+2022-10-21 23:41:27,769 [INFO] DbBoards:156 - Kit is not supported: P-NUCLEO-WB55
+2022-10-21 23:41:27,781 [INFO] BoardInfo:879 - No configuration file found for board STEVAL-BFA001V1B
+2022-10-21 23:41:27,781 [INFO] DbBoards:156 - Kit is not supported: STEVAL-BFA001V1B
+2022-10-21 23:41:27,784 [INFO] BoardInfo:879 - No configuration file found for board STEVAL-BFA001V2B
+2022-10-21 23:41:27,784 [INFO] DbBoards:156 - Kit is not supported: STEVAL-BFA001V2B
+2022-10-21 23:41:27,993 [INFO] DbBoards:160 - Found 176 boards, 173 are supported
+2022-10-21 23:41:28,006 [INFO] ApiDb:418 - Load user favorites file C:\Users\11037833/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2022-10-21 23:41:28,007 [INFO] ApiDb:422 - User favorites Boards=[]
+2022-10-21 23:41:28,007 [INFO] DbBoards:189 - Set 0 / 0 favorites Boards
+2022-10-21 23:41:28,014 [INFO] ApiDb:663 - CubeFinder database Data Model version=2.1
+2022-10-21 23:41:28,014 [INFO] ApiDb:664 - CubeFinder database Configuration version=3.0.32
+2022-10-21 23:41:28,015 [INFO] ApiDb:665 - CubeFinder database generation date=2022-08-05 (1659688109)
+2022-10-21 23:41:28,015 [INFO] ApiDb:666 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.1, STM32Cube_FW_F7_V1.17.0, STM32Cube_FW_G0_V1.6.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.1, STM32Cube_FW_WB_V1.14.1, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.1.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.3.0, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-MEMS1_V9.3.0, X-CUBE-NFC4_V2.0.4, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0]
+2022-10-21 23:41:29,338 [INFO] DbExamplesSqlite:374 - Ignored 31 examples not supported by CubeIDE
+2022-10-21 23:41:29,339 [INFO] DbExamplesSqlite:375 - Found 6197 examples active
+2022-10-21 23:41:29,339 [INFO] DbExamplesSqlite:376 - Found 89 examples obsolete
+2022-10-21 23:41:29,340 [INFO] DbExamplesSqlite:377 - Found 0 examples under development
+2022-10-21 23:41:29,340 [INFO] DbExamplesSqlite:378 - Found 76 examples not building
+2022-10-21 23:41:29,343 [INFO] DbExamples:124 - Found 6242 examples
+2022-10-21 23:41:29,384 [INFO] DbExamples:221 - Found 77 boards with related examples
+2022-10-21 23:41:29,386 [INFO] DbExamples:234 - Found 64 MCUs with related examples
+2022-10-21 23:41:29,450 [INFO] ApiDb:409 - User favorites file not found: C:\Users\11037833/.stm32cubeide/favorites.examples.txt
+2022-10-21 23:41:29,450 [INFO] DbExamples:249 - Set 0 / 0 favorites Examples
+2022-10-21 23:41:30,354 [INFO] McuFinderGlobals:57 - Set McuFinderConnectedMode to true
+2022-10-21 23:41:30,450 [INFO] MultiScanPanel:195 - Auto-refresh data requested => check proxy status ongoing
+2022-10-21 23:41:30,460 [INFO] FinderPluginLoader:92 - Searching for filters in installed packs
+2022-10-21 23:41:34,696 [INFO] LoadUrlFilesThread:177 - End of LoadServerUrlFiles without Thread
+2022-10-21 23:41:34,945 [INFO] DetailPanel:339 - Set advertising image to C:/Users/11037833/STM32Cube/Repository/\en.Prom_NBSTM32U50921.jpg
+2022-10-21 23:41:54,278 [INFO] MultiScanPanel:195 - Auto-refresh data requested => check proxy status ongoing
+2022-10-21 23:41:54,542 [INFO] LoadUrlFilesThread:177 - End of LoadServerUrlFiles without Thread
+2022-10-21 23:41:54,542 [INFO] DetailPanel:339 - Set advertising image to C:/Users/11037833/STM32Cube/Repository/\en.Prom_NBSTM32U50921.jpg
+2022-10-21 23:41:54,572 [INFO] DbBoards:628 - Loading board mini-images...
+2022-10-21 23:41:54,999 [ERROR] DbBoards:648 - No image file defined for board B-WB1M-WPAN1
+2022-10-21 23:41:55,000 [ERROR] DbBoards:648 - No image file defined for board NUCLEO-C031C6
+2022-10-21 23:41:57,632 [ERROR] DbBoards:648 - No image file defined for board STEVAL-STWINBX1
+2022-10-21 23:41:57,782 [ERROR] DbBoards:648 - No image file defined for board STM32091C-EVAL
+2022-10-21 23:41:57,782 [ERROR] DbBoards:648 - No image file defined for board STM32100E-EVAL
+2022-10-21 23:41:57,783 [ERROR] DbBoards:648 - No image file defined for board STM3210C-EVAL
+2022-10-21 23:41:57,830 [ERROR] DbBoards:648 - No image file defined for board STM3221G-EVAL
+2022-10-21 23:41:57,831 [ERROR] DbBoards:648 - No image file defined for board STM32303C-EVAL
+2022-10-21 23:41:58,060 [ERROR] DbBoards:648 - No image file defined for board STM32479I-EVAL
+2022-10-21 23:41:58,060 [ERROR] DbBoards:648 - No image file defined for board STM32746G-EVAL2
+2022-10-21 23:41:58,083 [ERROR] DbBoards:648 - No image file defined for board STM32C0116-DK
+2022-10-21 23:41:58,084 [ERROR] DbBoards:648 - No image file defined for board STM32C0316-DK
+2022-10-21 23:41:58,185 [ERROR] DbBoards:648 - No image file defined for board STM32F401C-DISCO
+2022-10-21 23:41:58,327 [ERROR] DbBoards:648 - No image file defined for board STM32F7308-DK
+2022-10-21 23:41:58,416 [ERROR] DbBoards:648 - No image file defined for board STM32F779I-EVAL
+2022-10-21 23:41:58,784 [ERROR] DbBoards:648 - No image file defined for board STM32H747I-EVAL
+2022-10-21 23:41:58,891 [ERROR] DbBoards:648 - No image file defined for board STM32L-DISCOVERY
+2022-10-21 23:41:59,037 [ERROR] DbBoards:648 - No image file defined for board STM32L152D-EVAL
+2022-10-21 23:41:59,342 [ERROR] DbBoards:648 - No image file defined for board STM32MP135F-DK
+2022-10-21 23:41:59,744 [INFO] DbBoards:651 - Loaded 157 board mini-images
+2022-10-21 23:51:44,707 [INFO] McuFinderGlobals:57 - Set McuFinderConnectedMode to true
+2022-10-21 23:51:44,716 [INFO] ApiDb:443 - Save user favorites file C:\Users\11037833/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-10-21 23:51:44,717 [INFO] ApiDb:447 - User favorites MCUs=[]
+2022-10-21 23:51:44,719 [INFO] ApiDb:443 - Save user favorites file C:\Users\11037833/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2022-10-21 23:51:44,720 [INFO] ApiDb:447 - User favorites Boards=[]
+2022-10-22 00:43:39,179 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2022-10-22 00:45:23,918 [INFO] Activator:177 - 
+
+
+2022-10-22 00:45:23,920 [INFO] Activator:178 - !SESSION log4j initialized
+2022-10-22 00:46:03,390 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-10-22 00:46:03,392 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-10-22 00:46:03,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-10-22 00:48:16,003 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Compilation Unit @ b
+2022-10-22 00:48:16,004 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Length: 469
+2022-10-22 00:48:16,005 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Version: 4
+2022-10-22 00:48:16,005 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Abbreviation: 0
+2022-10-22 00:48:16,006 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Address size: 4
+2022-10-22 00:48:16,006 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Offset size: 4
+2022-10-22 00:48:16,007 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 1 11 1
+2022-10-22 00:48:16,009 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 25 8
+2022-10-22 00:48:16,009 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 13 b
+2022-10-22 00:48:16,010 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,011 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1b 8
+2022-10-22 00:48:16,013 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 11 1
+2022-10-22 00:48:16,014 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 12 6
+2022-10-22 00:48:16,015 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 10 17
+2022-10-22 00:48:16,017 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 2119 17
+2022-10-22 00:48:16,018 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,024 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 2 24 0
+2022-10-22 00:48:16,025 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,026 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3e b
+2022-10-22 00:48:16,026 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,029 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,032 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 3 13 1
+2022-10-22 00:48:16,033 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,034 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,038 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,039 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,040 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,042 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,042 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,044 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 4 d 0
+2022-10-22 00:48:16,046 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,047 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,049 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,050 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,053 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,054 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 38 b
+2022-10-22 00:48:16,055 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,056 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 5 f 0
+2022-10-22 00:48:16,057 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,058 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,059 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,060 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 6 16 0
+2022-10-22 00:48:16,060 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,061 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,062 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,063 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,064 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,065 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,066 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 7 1 1
+2022-10-22 00:48:16,067 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,068 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,070 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,073 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 8 21 0
+2022-10-22 00:48:16,074 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,075 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 9 34 0
+2022-10-22 00:48:16,075 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,076 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,077 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,078 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,079 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,080 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3f 19
+2022-10-22 00:48:16,080 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3c 19
+2022-10-22 00:48:16,081 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,082 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 10 2e 1
+2022-10-22 00:48:16,083 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3f 19
+2022-10-22 00:48:16,083 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,085 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,086 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,087 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,088 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,088 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 11 1
+2022-10-22 00:48:16,089 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 12 6
+2022-10-22 00:48:16,090 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 40 18
+2022-10-22 00:48:16,091 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 2116 19
+2022-10-22 00:48:16,091 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,092 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 11 34 0
+2022-10-22 00:48:16,093 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,094 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,095 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,095 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,096 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,096 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 2 18
+2022-10-22 00:48:16,097 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,099 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Compilation Unit @ 1e4
+2022-10-22 00:48:16,100 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Length: 34
+2022-10-22 00:48:16,101 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Version: 2
+2022-10-22 00:48:16,105 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Abbreviation: 168
+2022-10-22 00:48:16,106 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Address size: 4
+2022-10-22 00:48:16,107 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Offset size: 4
+2022-10-22 00:48:16,108 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 1 11 0
+2022-10-22 00:48:16,109 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 10 6
+2022-10-22 00:48:16,110 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 11 1
+2022-10-22 00:48:16,111 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 12 1
+2022-10-22 00:48:16,112 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 e
+2022-10-22 00:48:16,112 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1b e
+2022-10-22 00:48:16,113 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 25 e
+2022-10-22 00:48:16,114 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 13 5
+2022-10-22 00:48:16,115 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,117 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Compilation Unit @ 20a
+2022-10-22 00:48:16,119 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Length: 7842
+2022-10-22 00:48:16,121 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Version: 4
+2022-10-22 00:48:16,122 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Abbreviation: 188
+2022-10-22 00:48:16,123 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Address size: 4
+2022-10-22 00:48:16,124 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Offset size: 4
+2022-10-22 00:48:16,125 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 1 11 1
+2022-10-22 00:48:16,126 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 25 8
+2022-10-22 00:48:16,127 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 13 b
+2022-10-22 00:48:16,128 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,128 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1b 8
+2022-10-22 00:48:16,130 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 10 17
+2022-10-22 00:48:16,131 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,132 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 2 24 0
+2022-10-22 00:48:16,133 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,134 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3e b
+2022-10-22 00:48:16,135 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,136 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 3 26 0
+2022-10-22 00:48:16,139 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,141 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,143 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 4 13 1
+2022-10-22 00:48:16,144 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,145 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,146 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,147 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,148 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,148 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,149 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,150 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 5 d 0
+2022-10-22 00:48:16,150 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,151 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,153 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,155 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,156 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,157 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 38 b
+2022-10-22 00:48:16,157 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,158 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 6 f 0
+2022-10-22 00:48:16,159 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,159 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,160 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,161 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 7 16 0
+2022-10-22 00:48:16,162 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,162 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,163 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,164 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,164 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,165 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,166 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 8 1 1
+2022-10-22 00:48:16,166 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,167 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,168 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,170 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 9 21 0
+2022-10-22 00:48:16,171 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,172 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 10 34 0
+2022-10-22 00:48:16,173 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,173 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,174 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,175 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,175 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,176 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3f 19
+2022-10-22 00:48:16,177 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3c 19
+2022-10-22 00:48:16,177 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,179 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 11 34 0
+2022-10-22 00:48:16,180 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,180 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,181 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b 5
+2022-10-22 00:48:16,182 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,183 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,184 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3f 19
+2022-10-22 00:48:16,188 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3c 19
+2022-10-22 00:48:16,190 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,192 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 12 21 0
+2022-10-22 00:48:16,193 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,194 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 2f b
+2022-10-22 00:48:16,195 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,196 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 13 15 1
+2022-10-22 00:48:16,197 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 27 19
+2022-10-22 00:48:16,197 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,198 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,199 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,200 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 14 5 0
+2022-10-22 00:48:16,201 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,205 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,207 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 15 26 0
+2022-10-22 00:48:16,208 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,210 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 16 4 1
+2022-10-22 00:48:16,210 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,212 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3e b
+2022-10-22 00:48:16,213 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,214 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,215 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,216 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,217 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,219 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,220 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,221 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 17 28 0
+2022-10-22 00:48:16,222 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,222 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1c b
+2022-10-22 00:48:16,223 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,224 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 18 13 1
+2022-10-22 00:48:16,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,226 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b 5
+2022-10-22 00:48:16,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b b
+2022-10-22 00:48:16,228 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,228 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,229 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,230 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 19 d 0
+2022-10-22 00:48:16,230 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,231 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,231 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b 5
+2022-10-22 00:48:16,232 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,233 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,233 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 38 b
+2022-10-22 00:48:16,234 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,235 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 20 d 0
+2022-10-22 00:48:16,239 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,239 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,239 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b 5
+2022-10-22 00:48:16,240 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,241 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,241 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 38 5
+2022-10-22 00:48:16,242 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,243 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 21 4 1
+2022-10-22 00:48:16,244 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,244 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3e b
+2022-10-22 00:48:16,245 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 b b
+2022-10-22 00:48:16,246 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 49 13
+2022-10-22 00:48:16,246 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,247 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b 5
+2022-10-22 00:48:16,248 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,248 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 1 13
+2022-10-22 00:48:16,249 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,250 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 22 17 0
+2022-10-22 00:48:16,251 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3 8
+2022-10-22 00:48:16,253 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3c 19
+2022-10-22 00:48:16,254 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,255 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 23 15 0
+2022-10-22 00:48:16,256 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 27 19
+2022-10-22 00:48:16,256 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:48:16,257 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 	Abrev Entry: 24 34 0
+2022-10-22 00:48:16,258 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 47 13
+2022-10-22 00:48:16,258 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3a b
+2022-10-22 00:48:16,259 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 3b 5
+2022-10-22 00:48:16,259 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 39 b
+2022-10-22 00:48:16,260 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 2 18
+2022-10-22 00:48:16,260 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 		 0 0
+2022-10-22 00:51:25,838 [ERROR] ConfigurationRetriever:139 - IOException on connection: connect timed out
+2022-10-22 00:51:27,841 [ERROR] ConfigurationRetriever:139 - IOException on connection: connect timed out
+2022-10-22 00:52:18,330 [INFO] Activator:177 - 
+
+
+2022-10-22 00:52:18,332 [INFO] Activator:178 - !SESSION log4j initialized
+2022-10-22 00:52:57,185 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-10-22 00:52:57,187 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-10-22 00:52:57,190 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2022-10-22 00:55:17,906 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_External_tool_project_builders_migration_2 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2022-10-22 00:55:17,914 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_Prompt_before_migrating_3 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2022-10-22 00:55:17,918 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: NLS missing message: ExternalToolsPreferencePage_1 in: org.eclipse.ui.externaltools.internal.ui.ExternalToolsUIMessages
+2022-10-22 00:55:41,259 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] org.eclipse.cdt.managedbuilder.core.BuildException: No toolchain option in toolchain configuration cdt.managedbuild.toolchain.gnu.cross.exe.debug.247316640: 
+2022-10-22 00:55:41,263 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainId(ToolChainHelper.java:159)
+2022-10-22 00:55:41,267 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainInfo(ToolChainHelper.java:106)
+2022-10-22 00:55:41,270 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ui.unmanaged.ToolSettingsTab.createControls(ToolSettingsTab.java:147)
+2022-10-22 00:55:41,274 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.createControls(AbstractCPropertyTab.java:139)
+2022-10-22 00:55:41,277 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadTab(AbstractPage.java:1189)
+2022-10-22 00:55:41,280 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadExtensionsSynchronized(AbstractPage.java:1133)
+2022-10-22 00:55:41,283 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createWidgets(AbstractPage.java:364)
+2022-10-22 00:55:41,286 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.contentForCDT(AbstractPage.java:350)
+2022-10-22 00:55:41,289 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createContents(AbstractPage.java:247)
+2022-10-22 00:55:41,292 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:244)
+2022-10-22 00:55:41,296 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1433)
+2022-10-22 00:55:41,299 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1196)
+2022-10-22 00:55:41,302 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+2022-10-22 00:55:41,304 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2022-10-22 00:55:41,307 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1188)
+2022-10-22 00:55:41,312 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:630)
+2022-10-22 00:55:41,316 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+2022-10-22 00:55:41,318 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+2022-10-22 00:55:41,322 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+2022-10-22 00:55:41,325 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:821)
+2022-10-22 00:55:41,329 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+2022-10-22 00:55:41,333 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2022-10-22 00:55:41,337 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:818)
+2022-10-22 00:55:41,342 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1191)
+2022-10-22 00:55:41,346 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+2022-10-22 00:55:41,349 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:284)
+2022-10-22 00:55:41,353 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:438)
+2022-10-22 00:55:41,356 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+2022-10-22 00:55:41,360 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+2022-10-22 00:55:41,364 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4035)
+2022-10-22 00:55:41,366 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3635)
+2022-10-22 00:55:41,369 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+2022-10-22 00:55:41,371 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:799)
+2022-10-22 00:55:41,374 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:153)
+2022-10-22 00:55:41,377 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+2022-10-22 00:55:41,380 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+2022-10-22 00:55:41,383 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+2022-10-22 00:55:41,386 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2022-10-22 00:55:41,389 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2022-10-22 00:55:41,393 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2022-10-22 00:55:41,395 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+2022-10-22 00:55:41,398 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+2022-10-22 00:55:41,401 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:317)
+2022-10-22 00:55:41,406 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:251)
+2022-10-22 00:55:41,410 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+2022-10-22 00:55:41,414 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+2022-10-22 00:55:41,417 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+2022-10-22 00:55:41,420 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+2022-10-22 00:55:41,424 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+2022-10-22 00:55:41,428 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:389)
+2022-10-22 00:55:41,433 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.menus.CommandContributionItem.handleWidgetSelection(CommandContributionItem.java:785)
+2022-10-22 00:55:41,439 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.menus.CommandContributionItem.lambda$3(CommandContributionItem.java:762)
+2022-10-22 00:55:41,444 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+2022-10-22 00:55:41,447 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4243)
+2022-10-22 00:55:41,452 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1063)
+2022-10-22 00:55:41,456 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4060)
+2022-10-22 00:55:41,460 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3632)
+2022-10-22 00:55:41,466 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+2022-10-22 00:55:41,471 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2022-10-22 00:55:41,476 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+2022-10-22 00:55:41,480 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+2022-10-22 00:55:41,484 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+2022-10-22 00:55:41,488 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+2022-10-22 00:55:41,490 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+2022-10-22 00:55:41,493 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+2022-10-22 00:55:41,496 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2022-10-22 00:55:41,500 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+2022-10-22 00:55:41,507 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+2022-10-22 00:55:41,511 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+2022-10-22 00:55:41,514 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+2022-10-22 00:55:41,517 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+2022-10-22 00:55:41,520 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2022-10-22 00:55:41,523 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2022-10-22 00:55:41,527 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2022-10-22 00:55:41,529 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+2022-10-22 00:55:41,532 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+2022-10-22 00:55:41,534 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+2022-10-22 00:55:41,536 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
