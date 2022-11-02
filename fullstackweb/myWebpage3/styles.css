@@ -1,0 +1,53 @@
+body{
+    font-family: 'Merriweather',serif;
+}
+
+h1{
+    font-family: 'Sacramento',cursive;
+    font-size: 80px;
+}
+
+
+.london{
+    text-align: center;
+    background-color: rgb(189, 224, 255);
+    display: absolute;
+}
+
+.capua {
+    display: inline;
+    position: relative;
+    right:300px;
+    top:80px;
+}
+
+.paris {
+    display: inline;
+    position: relative;
+    left:800px;
+    bottom:200px;
+    width:200px;
+}
+
+.rome{
+    text-align: center;
+    position: relative;
+    right:100px;
+    width: 700px;
+}
+
+.gaul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top-width: 8px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-style: dotted;
+    border-color: grey;
+    width: 100px;
+}
+
+.middle-container{
+    text-align: center;
+}

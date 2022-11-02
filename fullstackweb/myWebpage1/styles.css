@@ -1,0 +1,28 @@
+h1{
+    color: brown;
+}
+
+h1:hover{
+    color:green;
+}
+
+h4{
+    color:cadetblue;
+}
+
+h4.london{
+    color: black;
+}
+
+h4.paris{
+    color:yellow;
+}
+
+h4#kolkata{
+    color: aqua;
+}
+
+
+body{
+    background-color: aliceblue;
+}
